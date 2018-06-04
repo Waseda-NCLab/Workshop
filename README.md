@@ -18,6 +18,9 @@ Members' work in NCLab.
     Paper: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
 
 #### [Jinhao WEN](https://github.com/solawen)
-- [FashionAI KeyPoint Detection Challenge](https://github.com/solawen/FashionAI_KeyPoint_Detection_Challenge)\
-    Code for [FashionAI KeyPoint Detection](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100068.5678.1.4ccc289bCzDJXu&raceId=231648&_lang=en_US) \
+- FashionAI KeyPoint Detection Challenge (https://github.com/solawen/FashionAI_KeyPoint_Detection_Challenge)\
+    Code for FashionAI KeyPoint Detection [2018 Tianchi](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100068.5678.1.4ccc289bCzDJXu&raceId=231648&_lang=en_US) \
     Rank 32/2322.
+- Astronomical Data Mining Competition (https://github.com/solawen/Astronomical-Data-Mining-Competition)\
+    Code for [2018 Tianchi](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100150.711.9.2d80a073zHl4Mj&raceId=231646&_lang=en_US) \
+    Rank 19/843
