@@ -13,6 +13,9 @@ Members' work in NCLab.
   This repo is implements of Reinforcement Learning Algorithms, implementing as learning, some of them are even another version of some tutorial. Any contributions are welcomed.
 
 #### [Ruidong YANG](https://github.com/yd8534976)
+- [FashionAI KeyPoints Detection](https://github.com/yd8534976/FashionAI-TF)\
+  A tensorflow implementation. 2-stage FPN.
+
 - [conGAN (conditional GANs)](https://github.com/yd8534976/conGAN)\
     This is a Tensorflow re-implementation of pix2pix.\
     Paper: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
